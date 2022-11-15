@@ -51,4 +51,10 @@ body{
     border: 1px solid #00e63d;
     border-radius: 10px;
     outline: none;
+    transition: all 0.3s ease;
+}
+
+.botao button:hover{
+    background: #00e63d;
+    color: #000;
 }
