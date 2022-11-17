@@ -1,7 +1,7 @@
 const button = document.getElementById('btn');
 const imagem = document.getElementById('imagem');
 
-imagem.src = "img/meme1.jpeg";
+imagem.src = "img/meme61.jpg";
 
 let memes = [
     "img/meme1.jpeg",
@@ -62,6 +62,7 @@ let memes = [
     "img/meme58.jpg",
     "img/meme59.jpg",
     "img/meme60.jpg",
+    "img/meme61.jpg",
 ];
 
 button.addEventListener('click', rotacao);
