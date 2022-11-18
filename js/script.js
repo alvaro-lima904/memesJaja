@@ -17,7 +17,6 @@ let memes = [
     "img2/meme11.jpg",
     "img2/meme12.jpg",
     "img2/meme13.jpg",
-    "img2/meme14.jpg",
     "img2/meme15.jpg",
     "img2/meme16.jpg",
     "img2/meme17.jpg",
